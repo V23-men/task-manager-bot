@@ -4,7 +4,7 @@ from telegram import Update
 from telegram.ext import Application, CommandHandler, ContextTypes
 
 # 🔑 ВСТАВЬ СЮДА СВОЙ ТОКЕН
-TOKEN = "8506886230:AAFnsWVlKZkPUsw0YO-tWPIvp2zWbTTFqq8"
+TOKEN = "TOKEN"
 
 TASKS_FILE = "tasks.json"
 
